@@ -2,3 +2,4 @@
 
 ## Tecnologies
 * Vite
+* Tailwind
